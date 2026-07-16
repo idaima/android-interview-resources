@@ -35,6 +35,14 @@
 - [Compose 基础](../android-interview-resources/manifest_android_interview/02-Jetpack%20Compose面试题/00-Compose基础.md)
 - [本地学习资料说明](../android-interview-resources/preparation/local-documents/README.md)
 
+## 致谢
+
+本仓库部分整理思路与资料索引参考了以下开源项目，感谢原作者们的持续分享：
+
+- [simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis)
+- [stormzhang/android-interview-questions-cn](https://github.com/stormzhang/android-interview-questions-cn)
+- [lisongting/preparation](https://github.com/lisongting/preparation)
+
 ## 说明
 
 当前目录本身更像一个导航入口，实际资料主要位于 [android-interview-resources](../android-interview-resources/README.md) 中。后续如果目录继续调整，优先同步更新这里的入口链接即可。
